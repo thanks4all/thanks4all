@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/thanks4all/thanks4all.github.io/static/css/main.f7bd1c68.chunk.css",
+    "main.js": "/thanks4all/thanks4all.github.io/static/js/main.f43a827d.chunk.js",
+    "main.js.map": "/thanks4all/thanks4all.github.io/static/js/main.f43a827d.chunk.js.map",
+    "runtime-main.js": "/thanks4all/thanks4all.github.io/static/js/runtime-main.be36456b.js",
+    "runtime-main.js.map": "/thanks4all/thanks4all.github.io/static/js/runtime-main.be36456b.js.map",
+    "static/js/2.3f2340d0.chunk.js": "/thanks4all/thanks4all.github.io/static/js/2.3f2340d0.chunk.js",
+    "static/js/2.3f2340d0.chunk.js.map": "/thanks4all/thanks4all.github.io/static/js/2.3f2340d0.chunk.js.map",
+    "index.html": "/thanks4all/thanks4all.github.io/index.html",
+    "precache-manifest.e971ced1c0dd58d80fdadebdc7ad6ed7.js": "/thanks4all/thanks4all.github.io/precache-manifest.e971ced1c0dd58d80fdadebdc7ad6ed7.js",
+    "service-worker.js": "/thanks4all/thanks4all.github.io/service-worker.js",
+    "static/css/main.f7bd1c68.chunk.css.map": "/thanks4all/thanks4all.github.io/static/css/main.f7bd1c68.chunk.css.map",
+    "static/js/2.3f2340d0.chunk.js.LICENSE": "/thanks4all/thanks4all.github.io/static/js/2.3f2340d0.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be36456b.js",
+    "static/js/2.3f2340d0.chunk.js",
+    "static/css/main.f7bd1c68.chunk.css",
+    "static/js/main.f43a827d.chunk.js"
+  ]
+}
